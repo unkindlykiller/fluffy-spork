@@ -3,5 +3,5 @@
 launch.bat
 has multple options
 
-camera.sh
+camshot.sh
 is for raspberry pi to take pictures
